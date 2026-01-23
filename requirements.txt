@@ -1,3 +1,6 @@
+streamlit==1.31.1
+altair==4.2.2
+
 numpy
 pandas
 scikit-learn
@@ -6,9 +9,3 @@ seaborn
 nltk
 wordcloud
 xgboost
-imghdr
-streamlit==1.31.1
-altair==4.2.2
-rich==13.7.1
-markdown-it-py==3.0.0
-pygments==2.16.1
